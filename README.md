@@ -2,4 +2,4 @@
 
 Author : **OJASV ISSAR**
 
-“Solving merge conflicts is easy!”
+“Solving merge conflicts is soooooo hard!”
